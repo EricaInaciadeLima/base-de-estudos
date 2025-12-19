@@ -536,3 +536,5 @@ Esse exemplo mostra como aplicar **SRP, DIP e OCP** de forma limpa e clara, segu
 
  
 
+
+
