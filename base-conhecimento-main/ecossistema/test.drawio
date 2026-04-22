@@ -1,0 +1,138 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Página-1" id="QCj-Kc7q8m6RkhYUd9f8">
+    <mxGraphModel dx="97764" dy="62674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-1" value="Refinamento Técnico" style="swimlane;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-380" width="2770" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-45" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(236, 236, 236); float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;Etapa 1 pode ocorrer&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px; padding: 0px; margin: 0px; background-color: rgb(236, 236, 236); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(236, 236, 236); float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;em paralelo com a etapa 2.&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XtTNJGbn6HeMInMZzdYH-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.0348" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-3" value="Etapa 1: Definir contratos com x/y" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="540" y="80" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-33" target="XtTNJGbn6HeMInMZzdYH-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-33" target="XtTNJGbn6HeMInMZzdYH-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="140" />
+              <mxPoint x="353" y="195" />
+              <mxPoint x="425" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-33" value="Refinamento Funcional&#xa;concluído?" style="rhombus" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="170" y="50" width="156" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-34" target="XtTNJGbn6HeMInMZzdYH-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-34" value="Sim! Iniciar o refinamento técnico." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="380" y="75" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-35" value="Não! Revisitar o refinamento funcional." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="380" y="130" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-7" target="XtTNJGbn6HeMInMZzdYH-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-52" value="Etapa 2 é concluída quando a&amp;nbsp;&lt;div&gt;etapa 1 estiver terminada.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XtTNJGbn6HeMInMZzdYH-50" vertex="1" connectable="0">
+          <mxGeometry x="0.0353" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-7" value="Etapa 2: Levantar premissas, dependências, histórias, arquitetura" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="1210" y="60" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-48" target="XtTNJGbn6HeMInMZzdYH-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-55" value="Sim! Pode&amp;nbsp; ir para etapa 3." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XtTNJGbn6HeMInMZzdYH-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.0798" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-48" value="Etapa 2 concluída?" style="rhombus" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="1880" y="60" width="125" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-53" value="Etapa 3: Responder as indagações e quebrar histórias/features" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="2320" y="65" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-57" value="Não! Revisitar as etapas&amp;nbsp; 1 e 2." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="XtTNJGbn6HeMInMZzdYH-1" vertex="1">
+          <mxGeometry x="2080" y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XtTNJGbn6HeMInMZzdYH-1" source="XtTNJGbn6HeMInMZzdYH-48" target="XtTNJGbn6HeMInMZzdYH-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1943" y="170" />
+              <mxPoint x="2155" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-6" value="Feature Lead / Produto" style="swimlane" parent="1" vertex="1">
+          <mxGeometry x="-320" y="-760" width="1620" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-8" value="Precisa ACR?" style="rhombus" parent="XtTNJGbn6HeMInMZzdYH-6" vertex="1">
+          <mxGeometry x="450" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-9" value="ACR Review" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-6" vertex="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-10" value="Etapa 2 concluída?" style="rhombus" parent="XtTNJGbn6HeMInMZzdYH-6" vertex="1">
+          <mxGeometry x="1390" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-11" value="Delivery" style="swimlane" parent="1" vertex="1">
+          <mxGeometry x="-120" y="410" width="2500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-12" value="Desenvolvimento" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-11" vertex="1">
+          <mxGeometry x="200" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-13" value="Testes" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-11" vertex="1">
+          <mxGeometry x="400" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-14" value="Deploy" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-11" vertex="1">
+          <mxGeometry x="600" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-15" value="Monitoramento / Feedback" style="rounded=1" parent="XtTNJGbn6HeMInMZzdYH-11" vertex="1">
+          <mxGeometry x="800" y="60" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-16" value="Fim" style="ellipse" parent="XtTNJGbn6HeMInMZzdYH-11" vertex="1">
+          <mxGeometry x="1050" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-17" parent="1" target="XtTNJGbn6HeMInMZzdYH-3" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-18" parent="1" target="XtTNJGbn6HeMInMZzdYH-7" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-19" parent="1" source="XtTNJGbn6HeMInMZzdYH-7" target="XtTNJGbn6HeMInMZzdYH-8" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-20" parent="1" source="XtTNJGbn6HeMInMZzdYH-8" target="XtTNJGbn6HeMInMZzdYH-9" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-21" parent="1" source="XtTNJGbn6HeMInMZzdYH-3" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-22" parent="1" source="XtTNJGbn6HeMInMZzdYH-9" target="XtTNJGbn6HeMInMZzdYH-10" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-23" value="Sim" parent="1" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-24" value="Sim" parent="1" source="XtTNJGbn6HeMInMZzdYH-10" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-25" value="Não" parent="1" target="XtTNJGbn6HeMInMZzdYH-3" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-26" value="Não" parent="1" source="XtTNJGbn6HeMInMZzdYH-10" target="XtTNJGbn6HeMInMZzdYH-7" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-27" parent="1" target="XtTNJGbn6HeMInMZzdYH-12" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-28" parent="1" source="XtTNJGbn6HeMInMZzdYH-12" target="XtTNJGbn6HeMInMZzdYH-13" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-29" parent="1" source="XtTNJGbn6HeMInMZzdYH-13" target="XtTNJGbn6HeMInMZzdYH-14" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-30" parent="1" source="XtTNJGbn6HeMInMZzdYH-14" target="XtTNJGbn6HeMInMZzdYH-15" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-31" parent="1" source="XtTNJGbn6HeMInMZzdYH-15" target="XtTNJGbn6HeMInMZzdYH-16" edge="1" />
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-46" value="Etapa 3: Validar tudo e quebrar histórias/features" style="rounded=1" parent="1" vertex="1">
+          <mxGeometry x="850" y="-260" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtTNJGbn6HeMInMZzdYH-47" value="Etapa 2 concluída?" style="rhombus" parent="1" vertex="1">
+          <mxGeometry x="1130" y="-650" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
